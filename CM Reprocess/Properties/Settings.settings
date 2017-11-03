@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CM_Reprocess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AmadeusPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AbacusPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AmadeusProcessing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.0.6\GDS Air Files\ASP Air Files</Value>
+    </Setting>
+    <Setting Name="AbacusProcessing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.0.6\GDS Air Files\Abacus</Value>
+    </Setting>
+    <Setting Name="DirectAmadeusPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.0.6\GDS Air Files\Amadeus</Value>
+    </Setting>
+    <Setting Name="CebuPacPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CebuPacProcessing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.0.6\GDS Air Files\CAPI</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
