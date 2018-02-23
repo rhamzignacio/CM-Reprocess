@@ -13,7 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>C:\inetpub\wwwroot\CM Reprocess\</PublishUrl>
+    <PublishUrl>T:\wwwroot\CM Reprocess\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://192.168.0.3:1008/</InstallUrl>
+    <InstallUrl>http://192.168.0.47:2008/</InstallUrl>
     <TargetCulture>en</TargetCulture>
     <ProductName>Client Magic Reprocessing</ProductName>
     <PublisherName>Philscan Travel and Tours</PublisherName>
@@ -73,7 +73,7 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>701ADF2A89ABD5A6AAABB05FCBACD9B42074F7D7</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>576A2B5AAD513F7F16306FED5622A5D00A199A43</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>
